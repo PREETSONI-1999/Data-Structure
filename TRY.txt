@@ -1,0 +1,6 @@
+                 comps elx extc
+ BOMBAY     20    50   60
+ MADRAS     10   30   20
+ DELHI         34    84   90
+ MANDI        15    88   60
+ KHARAG     56    65   53
